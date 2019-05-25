@@ -1,0 +1,2 @@
+[15/02/2019 22:47:37][Information] Log File Created for Server
+[15/02/2019 22:47:37] TEST

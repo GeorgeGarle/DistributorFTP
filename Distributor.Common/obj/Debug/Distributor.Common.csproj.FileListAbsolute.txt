@@ -1,0 +1,6 @@
+C:\Projects\Distributor\Distributor.Common\bin\Debug\Distributor.Common.dll
+C:\Projects\Distributor\Distributor.Common\bin\Debug\Distributor.Common.pdb
+C:\Projects\Distributor\Distributor.Common\obj\Debug\Distributor.Common.csprojAssemblyReference.cache
+C:\Projects\Distributor\Distributor.Common\obj\Debug\Distributor.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Distributor\Distributor.Common\obj\Debug\Distributor.Common.dll
+C:\Projects\Distributor\Distributor.Common\obj\Debug\Distributor.Common.pdb

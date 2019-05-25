@@ -1,0 +1,9 @@
+C:\Projects\Distributor\Distributor.Server.FTP\obj\Debug\Distributor.Server.FTP.csprojAssemblyReference.cache
+C:\Projects\Distributor\Distributor.Server.FTP\obj\Debug\Distributor.Server.FTP.csproj.CoreCompileInputs.cache
+C:\Projects\Distributor\Distributor.Server.FTP\bin\Debug\Distributor.Server.FTP.dll
+C:\Projects\Distributor\Distributor.Server.FTP\bin\Debug\Distributor.Server.FTP.pdb
+C:\Projects\Distributor\Distributor.Server.FTP\obj\Debug\Distributor.Server.FTP.dll
+C:\Projects\Distributor\Distributor.Server.FTP\obj\Debug\Distributor.Server.FTP.pdb
+C:\Projects\Distributor\Distributor.Server.FTP\bin\Debug\Distributor.Common.dll
+C:\Projects\Distributor\Distributor.Server.FTP\bin\Debug\Distributor.Common.pdb
+C:\Projects\Distributor\Distributor.Server.FTP\obj\Debug\Distributor.Server.FTP.csproj.CopyComplete
